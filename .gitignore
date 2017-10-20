@@ -1,4 +1,4 @@
 .history
-/hode_modules
-/platforms
-/plugins
+node_modules
+platforms
+plugins
